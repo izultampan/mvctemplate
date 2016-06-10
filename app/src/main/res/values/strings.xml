@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LatihanMVC</string>
+    <string name="splash_screen_title">Hi ini Splash Screen ...</string>
+    <string name="login_screen_title">Login Form</string>
+    <string name="user_name">User Name : </string>
+    <string name="password">Password : </string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string formatted="false" name="main_screen_title">Halo %s, kita sudah sampai di Main Screen\nAnda login sebagai %s</string>
+    <string name="error_username_password_wrong">Wrong username or password</string>
+</resources>
